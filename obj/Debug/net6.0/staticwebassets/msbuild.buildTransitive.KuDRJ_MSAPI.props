@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KuDRJ_MSAPI.props" />
+</Project>

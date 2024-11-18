@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KuDRJ_MSAPI.props" />
+</Project>
